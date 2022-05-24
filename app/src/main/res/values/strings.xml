@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Classwork_intent</string>
+    <string name="Button1">Second Activity</string>
+    <string name="Button2">Call 03468905305</string>
+    <string name="Button3">Web Page</string>
+    <string name="Button4">Email</string>
+</resources>
